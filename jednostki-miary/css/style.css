@@ -21,11 +21,6 @@ html {
     width: 20em;
 }
 
-#procenty {
-    width: 50%;
-}
-
-
 #ex {
     width: 20ex;
 }
@@ -34,4 +29,14 @@ html {
     width: 20rem;
 }
 
+#procenty {
+    width: 50%;
+}
+
+#vw {
+    width: 60vw;
+}
+
+#vh {
+    width: 60vh;
 }
