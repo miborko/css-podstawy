@@ -22,7 +22,7 @@ div#moniki > div > div > p {
     color: lightcoral;
 }
 
-p#sektor-po-id ~ p{
+p#selektor-po-id ~ p{
     color: orange;
 }
 
