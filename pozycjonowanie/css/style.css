@@ -29,7 +29,6 @@ div#kontener-abs {
     position: fixed;
     top: 20px;
     left: 40px;
-    z-index: -200;
 }
 
 div#kontener-abs > div#pierwszy-abs {
