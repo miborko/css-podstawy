@@ -9,6 +9,7 @@ div {
 div#kontener {
     background-color: beige;
     padding: 10px;
+    z-index: 100;
 }
 
 div#kontener > div#pierwszy {
@@ -25,11 +26,15 @@ div#kontener > div#drugi {
 div#kontener-abs {
     background-color: lightgreen;
     padding: 10px;
+    position: fixed;
+    top: 20px;
+    left: 40px;
+    z-index: -200;
 }
 
 div#kontener-abs > div#pierwszy-abs {
     background-color: yellow;
-    position: relative;
+    position: absolute;
     top: 30px;
     left: 60px;
 }
