@@ -4,7 +4,7 @@ html {
 }
 
 #container {
-    font-size: 15px;
+    font-size: 25px;
 }
 
 #container > div {
@@ -16,7 +16,22 @@ html {
 #pixele {
     width: 400px;
 }
-    
+
 #em {
-	width: 20em;}
+    width: 20em;
+}
+
+#procenty {
+    width: 50%;
+}
+
+
+#ex {
+    width: 20ex;
+}
+
+#rem {
+    width: 20rem;
+}
+
 }
