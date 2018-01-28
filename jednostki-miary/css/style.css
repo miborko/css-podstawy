@@ -4,7 +4,7 @@ html {
 }
 
 #container {
-    font-size: 30px;
+    font-size: 15px;
 }
 
 #container > div {
@@ -15,4 +15,8 @@ html {
 
 #pixele {
     width: 400px;
+}
+    
+#em {
+	width: 20em;}
 }
