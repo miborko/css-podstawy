@@ -18,7 +18,14 @@ p {
 	color: greenyellow;
 }
 
-#moniki > p{
+div#moniki > div > div > p {
     color: lightcoral;
 }
 
+p#sektor-po-id ~ p{
+    color: orange;
+}
+
+p#selektor-po-id +p {
+    color: magenta;
+}
