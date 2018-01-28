@@ -3,13 +3,22 @@ body {
 }
 
 p {
-    background-color: gray color: #fff;
+    background-color: gray; 
+        color: #fff;
 }
 
 #selektor-po-id {
-    color: yellow
+    color: yellow;
 }
 
 .selektor-po-klasie {
     color: violet;
 }
+#moniki p{
+	color: greenyellow;
+}
+
+#moniki > p{
+    color: lightcoral;
+}
+
